@@ -1,0 +1,18 @@
+{
+  "name": "CareLink SG",
+  "short_name": "CareLink SG",
+  "description": "Singapore family & domestic helper eldercare coordination platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#0f766e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
